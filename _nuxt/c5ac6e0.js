@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[87],{1188:function(t,e,n){"use strict";n.r(e);var r={created:function(){this.$store.dispatch("instructorsPage/initAllCoursesList")}},c=n(24),component=Object(c.a)(r,(function(){var t=this.$createElement;return(this._self._c||t)("Courses")}),[],!1,null,"7b2f1f5d",null);e.default=component.exports}}]);
